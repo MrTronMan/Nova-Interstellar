@@ -44,3 +44,7 @@ input:checked + .slider-round {
 .fixed-nav-bar-right:hover .navbar-link:hover {
   color: var(--ctp-frappe-blue) /*blue*/;
 }
+
+.school-greeting {
+  color: white;
+}

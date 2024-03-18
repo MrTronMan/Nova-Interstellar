@@ -547,6 +547,10 @@ select {
   justify-content: center;
 }
 
+.school-greeting {
+  font-weight: 800;
+  font-size: larger;
+}
 .sugelement {
   width: auto;
   height: 25px;
