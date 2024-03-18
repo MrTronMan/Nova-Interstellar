@@ -23,7 +23,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 })
-
 // Themes
 var themeid = localStorage.getItem('theme')
 themeEle = document.createElement('link')
