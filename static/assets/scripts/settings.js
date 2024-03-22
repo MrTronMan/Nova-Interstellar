@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // Key
 var eventKey = localStorage.getItem('eventKey') || '`'
-var pLink = localStorage.getItem('pLink') || 'https://classroom.google.com/'
+var pLink = localStorage.getItem('pLink') || 'https://google.com'
 
 document.addEventListener('DOMContentLoaded', function () {
   document.getElementById('eventKeyInput').value = eventKey
